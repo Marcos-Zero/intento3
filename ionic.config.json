@@ -1,0 +1,7 @@
+{
+  "name": "intento3",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
